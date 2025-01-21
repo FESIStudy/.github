@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=30&text=FESISTUDY&section=header&fontSize=50&fontAlignY=30&animation=fadeIn&rotate=0&desc=프론트엔드%20딥다이브%20스터디&descSize=17&reversal=false" style="width: 120%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=3&text=FESISTUDY&section=header&fontSize=50&fontAlignY=30&animation=fadeIn&rotate=0&desc=프론트엔드%20딥다이브%20스터디&descSize=17&reversal=false" style="width: 120%;" />
 
 <br>
 
 ## 팀원 소개
-> **FESI STUDY**<br>
+> **GunBamz STUDY**<br>
 > 개발 기술스택을 주제로 매주 리뷰를 통해, 기술을 딥하게 학습하는 스터디 입니다. <br>
 이 스터디는 실습을 통해 실무에서 적용할 수 있는 경험을 쌓는 것을 목표로 합니다. 
 <table align="center">
