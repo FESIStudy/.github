@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=3&text=FESISTUDY&section=header&fontSize=50&fontAlignY=30&animation=fadeIn&rotate=0&desc=프론트엔드%20딥다이브%20스터디&descSize=17&reversal=false" style="width: 120%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=3&text=GUNBAMZ%20STUDY&section=header&fontSize=50&fontAlignY=30&animation=fadeIn&rotate=0&desc=프론트엔드%20딥다이브%20스터디&descSize=17&reversal=false" style="width: 120%;" />
 
 <br>
 
