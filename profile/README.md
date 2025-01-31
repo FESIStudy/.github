@@ -14,7 +14,7 @@
     <td align="center"><a href="https://github.com/junesung1004"><img src="https://avatars.githubusercontent.com/u/135226639?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Ralto13"><img src="https://avatars.githubusercontent.com/u/45177372?s=96&v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Oh-hong"><img src="https://avatars.githubusercontent.com/u/163826719?v=4" width="150px;" alt="">
-     <td align="center"><a href="https://github.com/dohyeons"><img src="https://avatars.githubusercontent.com/u/163826719?v=4" width="150px;" alt="">
+     <td align="center"><a href="https://github.com/dohyeons"><img src="https://avatars.githubusercontent.com/u/105625895?v=4" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/xeunnie"><b>최승은</b></td>
