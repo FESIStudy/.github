@@ -13,7 +13,8 @@
     <td align="center"><a href="https://github.com/dbswl701"><img src="https://avatars.githubusercontent.com/u/73208914?s=96&v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/junesung1004"><img src="https://avatars.githubusercontent.com/u/135226639?v=4" width="150px;" alt="">
     <td align="center"><a href="https://github.com/Ralto13"><img src="https://avatars.githubusercontent.com/u/45177372?s=96&v=4" width="150px;" alt="">
-     <td align="center"><a href="https://github.com/Oh-hong"><img src="https://avatars.githubusercontent.com/u/163826719?v=4" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/Oh-hong"><img src="https://avatars.githubusercontent.com/u/163826719?v=4" width="150px;" alt="">
+     <td align="center"><a href="https://github.com/dohyeons"><img src="https://avatars.githubusercontent.com/u/163826719?v=4" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/xeunnie"><b>최승은</b></td>
@@ -21,7 +22,8 @@
     <td align="center"><a href="https://github.com/dbswl701"><b>강윤지</b></td>
     <td align="center"><a href="https://github.com/junesung1004"><b>박준성</b></td>
     <td align="center"><a href="https://github.com/Ralto13"><b>강동현</b></td>
-     <td align="center"><a href="https://github.com/Oh-hong"><b>홍준기</b></td>
+    <td align="center"><a href="https://github.com/Oh-hong"><b>홍준기</b></td>
+     <td align="center"><a href="https://github.com/dohyeons"><b>도현수</b></td>
   </tr>
   </table>
 <br>
